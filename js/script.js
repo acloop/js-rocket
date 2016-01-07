@@ -1,3 +1,10 @@
+
+setTimeout(function() {
+	location.href = 'rocket.html';
+}, 2000);
+
+
+
 //invisible comment
 
 
